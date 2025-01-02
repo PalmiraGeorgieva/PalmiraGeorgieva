@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @PalmiraGeorgieva
-- 👀 I’m interested in mathematic, logic, python, QA,HTML and CSS, drawing, reading books
+- 👀 I’m interested in mathematic, logic, python, QA,HTML and CSS, Web design, drawing, reading books.
 - I already finnish course: Programming with Phyton basic. 
 - 🌱 I’m currently learning HTML ana CSS, JavaScript.
-- 💞️ I’m looking to collaborate on Github, LinkedIn
-- 📫 How to reach me: ...
+- 💞️ I’m looking to collaborate on Github, LinkedIn.
+- 📫 How to reach me: https://www.linkedin.com/in/palmira-georgieva-16ba7aa7/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
