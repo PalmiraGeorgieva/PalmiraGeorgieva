@@ -1,20 +1,20 @@
-#👋 Hello, I'm Palmira Georgieva!
+# 👋 Hello, I'm Palmira Georgieva!
 
-№🎯 Goal  
+# 🎯 Goal  
 Aspiring Front-End Developer with a strong interest in QA and Python programming. I’m developing skills in web technologies by combining visual thinking with logical planning.
 
-№🧠 Skills  
+# 🧠 Skills  
 - HTML, CSS, Responsive Web Design  
 - JavaScript (currently studying JavaScript Fundamentals at SoftUni)  
 - Python (Basic level)  
 - Git & GitHub
 
-№📂 Projects  
+# 📂 Projects  
 - Certified projects from freeCodeCamp  
 - Exercises and mini-projects from Python and JavaScript courses  
 - Personal UI projects: (https://palmirageorgieva.github.io/)
 
-№📫 Contact  
+# 📫 Contact  
 - [LinkedIn Profile]([https://www.linkedin.com/in/твоя-профил](https://www.linkedin.com/in/palmira-georgieva-16ba7aa7/))
 
 
