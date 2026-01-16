@@ -5,7 +5,7 @@ Aspiring Front-End Developer with a strong interest in QA and Python programming
 
 # 🧠 Skills  
 - HTML, CSS, Responsive Web Design  
-- JavaScript (currently studying JavaScript Fundamentals at SoftUni)  
+- JavaScript 
 - Python (Basic level)  
 - Git & GitHub
 
