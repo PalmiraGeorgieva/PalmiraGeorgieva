@@ -15,6 +15,7 @@ I'm looking for opportunities to grow as a developer, contribute to meaningful p
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres,git,github,vscode,prisma" />
 </p>
+
 # 📂 Projects  
 - Certified projects from freeCodeCamp  
 - Exercises and mini-projects from JavaScript courses  
@@ -22,7 +23,9 @@ I'm looking for opportunities to grow as a developer, contribute to meaningful p
 - Official Website created by me for local bussines for internet:  [
 (https://net-sar.com/)
 - Mini Calculator App: https://palmirageorgieva.github.io/calculatorapp-project.io/
+
 # 📫 Contact  
+
 - [LinkedIn Profile]([https://www.linkedin.com/in/твоя-профил](https://www.linkedin.com/in/palmira-georgieva-16ba7aa7/))
 
 
