@@ -17,7 +17,7 @@ I'm looking for opportunities to grow as a developer, contribute to meaningful p
 </p>
 
 # 📂 Projects  
-<p align="center">
+<p align="left">
   <a href="https://net-sar.com/">
     <img src="Screenshot 2026-05-05 at 17.25.39.png" width="400">
   </a>
