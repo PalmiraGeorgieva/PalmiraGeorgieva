@@ -17,7 +17,7 @@ I'm looking for opportunities to grow as a developer, contribute to meaningful p
 </p>
 
 # 📂 Projects  
-<p align="left">
+<p align="center">
   <a href="https://net-sar.com/">
     <img src="Screenshot 2026-05-05 at 17.25.39.png" width="400">
   </a>
@@ -25,7 +25,7 @@ I'm looking for opportunities to grow as a developer, contribute to meaningful p
 
 # 📫 Contact  
 
-<p align="center">
+<p align="left">
   <a href="www.linkedin.com/in/palmira-georgieva-16ba7aa7">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
           
