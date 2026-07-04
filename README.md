@@ -22,13 +22,13 @@ I'm looking for opportunities to grow as a developer, contribute to meaningful p
     <td align="center">
       <a href="https://net-sar.com/">
         <img src="Screenshot 2026-05-05 at 17.25.39.png" width="250"><br>
-        Net-Sar Systems (Local business for internet)
+        <b>Net-Sar Systems (Local business for internet)</b>
       </a>
     </td>
     <td align="center">
       <a href="https://palmirageorgieva.github.io/">
         <img src="Screenshot_20260704-130345~2.png" width="250"><br>
-        My Portfolio Page
+       <b>My Portfolio Page</b>
       </a>
     </td>
   </tr>
@@ -37,17 +37,18 @@ I'm looking for opportunities to grow as a developer, contribute to meaningful p
     <td align="center">
       <a href="https://palmirageorgieva.github.io/calculatorapp-project.io/">
         <img src="Screenshot_20260704-133037~3.png" width="250"><br>
-        Basic Calculator App
+        <b>Basic Calculator App</b>
       </a>
     </td>
     <td align="center">
       <a href="https://palmirageorgieva.github.io/watch-pp-project.io/">
         <img src="Screenshot_20260704-133059~2.png" width="250"><br>
-        Watch App
+        <b>Watch App</b>
       </a>
     </td>
   </tr>
 </table>
+
 # 📫 Contact  
 
 <p align="left">
