@@ -29,7 +29,16 @@ I'm looking for opportunities to grow as a developer, contribute to meaningful p
     <img src="Screenshot_20260704-130345~2.png" width="400">
   </a>
 </p>
-
+<p align="center">
+  <h3>Basic Calculator App</h3>
+  <a href="https://palmirageorgieva.github.io/](https://palmirageorgieva.github.io/calculatorapp-project.io/">
+    <img src="Screenshot_20260704-133037~3.png" width="400">
+  </a>
+  <h3>Watch App</h3>
+  <a href="https://palmirageorgieva.github.io/watch-pp-project.io/">
+    <img src="Screenshot_20260704-133059~2.png" width="400">
+  </a>
+</p>
 # 📫 Contact  
 
 <p align="left">
