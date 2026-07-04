@@ -17,15 +17,20 @@ I'm looking for opportunities to grow as a developer, contribute to meaningful p
 </p>
 
 # 📂 Projects  
-- Certified projects from freeCodeCamp  
-- Exercises and mini-projects from JavaScript courses  
-- Personal UI projects: (https://palmirageorgieva.github.io/)
-- Official Website created by me for local bussines for internet: ![[Local bussines](Screenshot 2026-05-05 at 17.25.39.png)](https://net-sar.com/)
-- Mini Calculator App: https://palmirageorgieva.github.io/calculatorapp-project.io/
+<p align="center">
+  <a href="https://net-sar.com/">
+    <img src="Screenshot 2026-05-05 at 17.25.39.png" width="400">
+  </a>
+</p>
 
 # 📫 Contact  
 
-- [LinkedIn Profile]([https://www.linkedin.com/in/твоя-профил](https://www.linkedin.com/in/palmira-georgieva-16ba7aa7/))
+<p align="center">
+  <a href="www.linkedin.com/in/palmira-georgieva-16ba7aa7">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+          
+  </a>
+</p>
 
 
 
