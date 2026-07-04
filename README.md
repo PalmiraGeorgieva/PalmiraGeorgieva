@@ -26,7 +26,7 @@ I'm looking for opportunities to grow as a developer, contribute to meaningful p
 <p align="center">
   <h3>My Portfolio Page</h3>
   <a href="https://palmirageorgieva.github.io/">
-    <img src="Screenshot_20260704-130345-2.png" width="400">
+    <img src="Screenshot_20260704-130345~2.png" width="400">
   </a>
 </p>
 
