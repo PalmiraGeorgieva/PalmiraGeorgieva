@@ -18,8 +18,15 @@ I'm looking for opportunities to grow as a developer, contribute to meaningful p
 
 # 📂 Projects  
 <p align="center">
+  <h3>Net-Sar Systems</h3>
   <a href="https://net-sar.com/">
     <img src="Screenshot 2026-05-05 at 17.25.39.png" width="400">
+  </a>
+</p>
+<p align="center">
+  <h3>My Portfolio Page</h3>
+  <a href="https://palmirageorgieva.github.io/">
+    <img src="Screenshot_20260704-130345-2.png" width="400">
   </a>
 </p>
 
