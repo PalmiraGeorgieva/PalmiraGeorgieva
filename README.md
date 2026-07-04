@@ -10,31 +10,19 @@ I enjoy turning ideas into functional websites, solving problems through code, a
 
 I'm looking for opportunities to grow as a developer, contribute to meaningful projects, and gain real-world experience in the IT industry.
 
-# 🧠 Skills  
-Front-end Development       
- - HTML5
- - CSS3
- - JavaScript
- - TypeScript
+# 🧠 <h2>🛠️ Technologies</h2>
 
-Databases
- - PostgreSQL                           
- - SQL
-   
-Back - End Development
-- Node.js
-- Express.js
-- Handlebars
-- Python (Basic)
-
-Tools & Platforms
- - Git
- - GitHub
- - VS Code
- - DataGrip
- - Postman
- - PyCharm
- - Figma
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+</p>
 
 
 # 📂 Projects  
