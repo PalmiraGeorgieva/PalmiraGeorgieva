@@ -12,9 +12,9 @@ I'm looking for opportunities to grow as a developer, contribute to meaningful p
 
 # 🧠 <h2>🛠️ Technologies</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres,git,github,vscode,prisma, python, git, github" />
-
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres,git,github,vscode,prisma" />
+</p>
 # 📂 Projects  
 - Certified projects from freeCodeCamp  
 - Exercises and mini-projects from JavaScript courses  
