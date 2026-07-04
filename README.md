@@ -20,7 +20,7 @@ I'm looking for opportunities to grow as a developer, contribute to meaningful p
 - Certified projects from freeCodeCamp  
 - Exercises and mini-projects from JavaScript courses  
 - Personal UI projects: (https://palmirageorgieva.github.io/)
-- Official Website created by me for local bussines for internet:  [
+- Official Website created by me for local bussines for internet:  [(Screenshot 2026-05-05 at 17.25.39.png)
 (https://net-sar.com/)
 - Mini Calculator App: https://palmirageorgieva.github.io/calculatorapp-project.io/
 
