@@ -13,7 +13,7 @@ I'm looking for opportunities to grow as a developer, contribute to meaningful p
 # 🧠 <h2>🛠️ Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres,git,github,vscode,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres,git,github,vscode,prisma,typescript, python" />
 </p>
 # 📂 Projects  
 - Certified projects from freeCodeCamp  
