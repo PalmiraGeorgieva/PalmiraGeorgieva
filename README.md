@@ -26,7 +26,7 @@ I'm looking for opportunities to grow as a developer, contribute to meaningful p
 # 📫 Contact  
 
 <p align="left">
-  <a href="www.linkedin.com/in/palmira-georgieva-16ba7aa7" target="_blank">
+  <a href="https://www.linkedin.com/in/palmira-georgieva-16ba7aa7" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
   </a>
 </p>
