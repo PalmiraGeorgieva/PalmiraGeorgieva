@@ -10,7 +10,7 @@ I enjoy turning ideas into functional websites, solving problems through code, a
 
 I'm looking for opportunities to grow as a developer, contribute to meaningful projects, and gain real-world experience in the IT industry.
 
-# 🧠 <h2>🛠️ Technologies</h2>
+# <h2>🛠️ Technologies</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres,git,github,vscode,prisma" />
