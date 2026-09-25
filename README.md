@@ -1,4 +1,4 @@
-![Banner](mynewbanner.png)
+![Banner](Banner-Palmira.png)
 # 👋 Hello, I'm Palmira Georgieva!
 
 # 🎯 About me
