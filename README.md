@@ -22,7 +22,7 @@ I believe the best way to learn programming is to build, experiment, make mistak
 # <h2>🧰 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres,git,github,vscode,prisma,react, REST APIs, HTTPS" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres,git,github,vscode,prisma,react" />
 </p>
 
 # 📂 Projects  
