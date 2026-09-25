@@ -10,7 +10,7 @@ I'm a JavaScript & Web Development student focused on building modern, practical
 🎨 Interested in web development, UI/UX, and graphic design.
 🌱 Always learning, experimenting, and improving my code.
 
-🚀 Current Projects
+🚀 Current Project
  - Technicians Task Manager (TTM) — a React-based task management application for organizing and tracking technicians' work
 
 🎯 Currently Learning
