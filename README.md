@@ -4,11 +4,11 @@
 # 🎯 About me
 I'm a JavaScript & Web Development student focused on building modern, practical web applications.
 
-💻 Currently working with JavaScript, React, Node.js, Express, PostgreSQL, and Prisma
-⚛️ Currently expanding my skills in React and modern frontend development
-🛠️ I enjoy building full-stack projects and turning ideas into functional applications
-🎨 Interested in web development, UI/UX, and graphic design
-🌱 Always learning, experimenting, and improving my code
+💻 Currently working with JavaScript, React, Node.js, Express, PostgreSQL, and Prisma.
+⚛️ Currently expanding my skills in React and modern frontend development.
+🛠️ I enjoy building full-stack projects and turning ideas into functional applications.
+🎨 Interested in web development, UI/UX, and graphic design.
+🌱 Always learning, experimenting, and improving my code.
 
 🚀 Current Projects
  - Technicians Task Manager (TTM) — a React-based task management application for organizing and tracking technicians' work
