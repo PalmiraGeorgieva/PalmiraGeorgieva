@@ -2,15 +2,25 @@
 # 👋 Hello, I'm Palmira Georgieva!
 
 # 🎯 About me
-I'm Junior Front-End Developer passionate about creating responsive, user-friendly, and visually appealing web applications.
+I'm a JavaScript & Web Development student focused on building modern, practical web applications.
 
-My journey started with HTML, CSS, and JavaScript, and I have continued developing my skills through projects, certifications, and hands-on practice with modern web technologies such as TypeScript, Git, GitHub, and PostgreSQL.
+💻 Currently working with JavaScript, React, Node.js, Express, PostgreSQL, and Prisma
+⚛️ Currently expanding my skills in React and modern frontend development
+🛠️ I enjoy building full-stack projects and turning ideas into functional applications
+🎨 Interested in web development, UI/UX, and graphic design
+🌱 Always learning, experimenting, and improving my code
 
-I enjoy turning ideas into functional websites, solving problems through code, and continuously learning new technologies. Currently, I am expanding my knowledge in Back-End Development with Node.js while strengthening my Front-End development skills.
+🚀 Current Projects
+ - Technicians Task Manager (TTM) — a React-based task management application for organizing and tracking technicians' work
+ - DOGO Bulgaria Store — an e-commerce web application built with React, inspired by DOGO Store
 
-I'm looking for opportunities to grow as a developer, contribute to meaningful projects, and gain real-world experience in the IT industry.
+🎯 Currently Learning
 
-# <h2>🛠️ Technologies</h2>
+React • Full-Stack Web Development • Building scalable web applications
+
+I believe the best way to learn programming is to build, experiment, make mistakes, and understand why the code works.
+
+# <h2>🧰 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres,git,github,vscode,prisma,react" />
