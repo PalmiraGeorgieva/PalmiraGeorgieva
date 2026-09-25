@@ -12,7 +12,6 @@ I'm a JavaScript & Web Development student focused on building modern, practical
 
 🚀 Current Projects
  - Technicians Task Manager (TTM) — a React-based task management application for organizing and tracking technicians' work
- - DOGO Bulgaria Store — an e-commerce web application built with React, inspired by DOGO Store
 
 🎯 Currently Learning
 
