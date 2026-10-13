@@ -30,7 +30,7 @@ I believe the best way to learn programming is to build, experiment, make mistak
   <tr>
     <td align="center">
       <a href="https://technician-task-manager.vercel.app/">
-        <img src="" width="250"><br>
+        <img src="Screenshot 2026-10-13 at 8.56.04.png" width="250"><br>
         <b>Technician Task Manager</b>
       </a>
     </td>
