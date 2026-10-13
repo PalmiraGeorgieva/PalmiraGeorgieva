@@ -29,6 +29,12 @@ I believe the best way to learn programming is to build, experiment, make mistak
 <table>
   <tr>
     <td align="center">
+      <a href="https://technician-task-manager.vercel.app/">
+        <img src="" width="250"><br>
+        <b>Technician Task Manager</b>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://net-sar.com/">
         <img src="Screenshot 2026-05-05 at 17.25.39.png" width="250"><br>
         <b>Net-Sar Systems (Local business for internet)</b>
